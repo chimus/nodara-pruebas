@@ -1,0 +1,3 @@
+# Maqueta: cambiar a "Allow: /" y agregar el sitemap antes del lanzamiento
+User-agent: *
+Disallow: /
