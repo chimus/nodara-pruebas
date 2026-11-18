@@ -4,7 +4,7 @@
   Referrer-Policy: strict-origin-when-cross-origin
   X-Frame-Options: DENY
   Permissions-Policy: camera=(), microphone=(), geolocation=()
-  Content-Security-Policy: default-src 'self'; script-src 'self' 'sha256-5q3hfF1zIMTKKLRsmTn91x4zAC2P1gk2/sb0iOZQra4=' 'sha256-j2LPTnu7FT5wlebtg1jZhPxwF8wqccnr/60BlB6PPmw=' 'sha256-hRmoEBgXcuOaAMaG3b5/41QlYNzUCu8hPgRLsneS9L4=' 'sha256-BU8qo8fkDDisAaAWyw3wZusay8M8v10WRhgfksnoud4='; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data:; connect-src 'self' wss://nodara-vivo.benjacps1320.workers.dev; frame-ancestors 'none'; base-uri 'self'; form-action 'self'
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'sha256-5q3hfF1zIMTKKLRsmTn91x4zAC2P1gk2/sb0iOZQra4=' 'sha256-j2LPTnu7FT5wlebtg1jZhPxwF8wqccnr/60BlB6PPmw=' 'sha256-hRmoEBgXcuOaAMaG3b5/41QlYNzUCu8hPgRLsneS9L4=' 'sha256-A5Rw1NsWYF7qcFczF0kP8t7UTx9O3HKeaVDt5f0VyM8='; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data:; connect-src 'self' wss://nodara-vivo.benjacps1320.workers.dev; frame-ancestors 'none'; base-uri 'self'; form-action 'self'
   # Maqueta: quitar esta línea antes del lanzamiento
   X-Robots-Tag: noindex, nofollow
 
